@@ -75,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0077-combinations) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
