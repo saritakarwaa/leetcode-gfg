@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
