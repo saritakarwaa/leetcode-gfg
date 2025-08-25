@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0620-not-boring-movies) |
+| [1135-customers-who-bought-all-products](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1415-students-and-examinations) |
