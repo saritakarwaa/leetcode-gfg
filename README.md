@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1827-invalid-tweets) |
