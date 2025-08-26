@@ -25,7 +25,7 @@ public:
             v[i]->left=NULL;
             v[i]->right=v[i+1];
         }
-        v.back()->left=NULL;
-        v.back()->right=NULL;
+        // v.back()->left=NULL;
+        // v.back()->right=NULL;
     }
 };
