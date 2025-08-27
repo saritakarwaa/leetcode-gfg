@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1153-product-sales-analysis-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1390-average-selling-price) |
