@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0680-valid-palindrome-ii) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Sorting
 |  |
 | ------- |
