@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Radix Sort
