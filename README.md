@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
+| [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0238-product-of-array-except-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Union Find
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
 |  |
