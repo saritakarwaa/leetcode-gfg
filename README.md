@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
