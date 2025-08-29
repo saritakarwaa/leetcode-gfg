@@ -8,8 +8,9 @@ public:
         }
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(image[i][j]==0) image[i][j]=1;
-                else if(image[i][j]==1) image[i][j]=0;
+                // if(image[i][j]==0) image[i][j]=1;
+                // else if(image[i][j]==1) image[i][j]=0;
+                image[i][j]^=1;
             }
         }
         return image;
