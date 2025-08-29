@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0238-product-of-array-except-self) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
