@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
