@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0041-first-missing-positive) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0202-happy-number) |
