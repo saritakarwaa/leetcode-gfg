@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1253-sort-the-matrix-diagonally) |
