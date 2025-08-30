@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
+| [0941-sort-array-by-parity](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1253-sort-the-matrix-diagonally) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3748-sort-matrix-by-diagonals) |
