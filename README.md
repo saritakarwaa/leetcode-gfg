@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
 ## Queue
 |  |
