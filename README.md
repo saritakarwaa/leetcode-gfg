@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1962-single-threaded-cpu](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1962-single-threaded-cpu) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3748-sort-matrix-by-diagonals) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## String Matching
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0506-relative-ranks) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1962-single-threaded-cpu](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1962-single-threaded-cpu) |
 ## Merge Sort
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -281,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
 | ------- |
