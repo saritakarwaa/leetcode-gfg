@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
 ## Queue
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2050-count-good-numbers) |
 ## Combinatorics
 |  |
