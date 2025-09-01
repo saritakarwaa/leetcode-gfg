@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
