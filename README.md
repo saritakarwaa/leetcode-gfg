@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3530-odd-and-even-transactions](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3530-odd-and-even-transactions) |
 ## Radix Sort
 |  |
 | ------- |
