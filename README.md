@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
