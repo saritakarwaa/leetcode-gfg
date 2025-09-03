@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1670-patients-with-a-condition) |
+| [1734-bank-account-summary-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1734-bank-account-summary-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1827-invalid-tweets) |
