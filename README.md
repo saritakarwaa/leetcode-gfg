@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2050-count-good-numbers](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3830-find-closest-person](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
