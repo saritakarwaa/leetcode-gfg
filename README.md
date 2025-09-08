@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
 | [0907-koko-eating-bananas](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [2665-minimum-time-to-repair-cars](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2665-minimum-time-to-repair-cars) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1962-single-threaded-cpu) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2665-minimum-time-to-repair-cars](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2665-minimum-time-to-repair-cars) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
