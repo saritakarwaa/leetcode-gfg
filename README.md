@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2481-strictly-palindromic-number) |
 | [3195-separate-black-and-white-balls](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0680-valid-palindrome-ii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
