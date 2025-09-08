@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
+| [0907-koko-eating-bananas](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
+| [0907-koko-eating-bananas](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
