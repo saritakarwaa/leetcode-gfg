@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0485-max-consecutive-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [0739-daily-temperatures](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0739-daily-temperatures) |
