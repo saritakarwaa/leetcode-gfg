@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
