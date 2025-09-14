@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0680-valid-palindrome-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0238-product-of-array-except-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
