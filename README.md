@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
+| [0647-palindromic-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0941-sort-array-by-parity) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0459-repeated-substring-pattern) |
+| [0647-palindromic-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0680-valid-palindrome-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
