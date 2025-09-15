@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
