@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0077-combinations) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Linked List
