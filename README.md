@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1962-single-threaded-cpu](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1962-single-threaded-cpu) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1253-sort-the-matrix-diagonally) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1962-single-threaded-cpu](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1962-single-threaded-cpu) |
 | [2887-sort-vowels-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3748-sort-matrix-by-diagonals) |
@@ -464,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0883-car-fleet) |
 | [2227-sum-of-subarray-ranges](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2227-sum-of-subarray-ranges) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
