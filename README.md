@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0739-daily-temperatures](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0739-daily-temperatures) |
