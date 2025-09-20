@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3748-sort-matrix-by-diagonals) |
 ## Memoization
 |  |
