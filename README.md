@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
