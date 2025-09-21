@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0883-car-fleet) |
 | [2227-sum-of-subarray-ranges](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2227-sum-of-subarray-ranges) |
