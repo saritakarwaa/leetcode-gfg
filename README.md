@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
 | [0458-poor-pigs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0458-poor-pigs) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0647-palindromic-substrings) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0282-expression-add-operators) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Linked List
 |  |
