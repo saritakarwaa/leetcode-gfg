@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2665-minimum-time-to-repair-cars) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
