@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0202-happy-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0282-expression-add-operators) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0139-word-break) |
 ## Database
 |  |
 | ------- |
@@ -577,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
