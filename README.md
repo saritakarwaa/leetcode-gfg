@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [0458-poor-pigs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0458-poor-pigs) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
