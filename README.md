@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2050-count-good-numbers) |
 ## Combinatorics
