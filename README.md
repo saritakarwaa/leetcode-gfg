@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2227-sum-of-subarray-ranges) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2227-sum-of-subarray-ranges) |
 ## Counting Sort
@@ -600,4 +602,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
