@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1524-string-matching-in-an-array) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3195-separate-black-and-white-balls) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2227-sum-of-subarray-ranges) |
+| [2470-removing-stars-from-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
+| [2470-removing-stars-from-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2470-removing-stars-from-a-string) |
 ## Brainteaser
 |  |
 | ------- |
