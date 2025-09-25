@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0282-expression-add-operators) |
+| [0319-bulb-switcher](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [0458-poor-pigs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0458-poor-pigs) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2481-strictly-palindromic-number) |
 ## Monotonic Stack
 |  |
