@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1524-string-matching-in-an-array) |
+| [1666-make-the-string-great](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1666-make-the-string-great) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2470-removing-stars-from-a-string) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1666-make-the-string-great](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1666-make-the-string-great) |
 | [2227-sum-of-subarray-ranges](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
