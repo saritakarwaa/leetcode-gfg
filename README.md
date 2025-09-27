@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1197-parsing-a-boolean-expression](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1524-string-matching-in-an-array) |
 | [1666-make-the-string-great](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1666-make-the-string-great) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1666-make-the-string-great](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1666-make-the-string-great) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0231-power-of-two) |
+| [1197-parsing-a-boolean-expression](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2050-count-good-numbers) |
 ## Combinatorics
 |  |
