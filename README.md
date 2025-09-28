@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0282-expression-add-operators) |
 | [0491-non-decreasing-subsequences](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0491-non-decreasing-subsequences) |
+| [0813-all-paths-from-source-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Linked List
 |  |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0904-leaf-similar-trees) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0662-maximum-width-of-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -643,5 +646,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
