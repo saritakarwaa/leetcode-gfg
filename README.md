@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0869-similar-string-groups](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0931-maximum-frequency-stack](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0931-maximum-frequency-stack) |
 | [0966-binary-subarrays-with-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1034-subarrays-with-k-different-integers) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0931-maximum-frequency-stack](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bit Manipulation
 |  |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0883-car-fleet) |
+| [0931-maximum-frequency-stack](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1197-parsing-a-boolean-expression) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
