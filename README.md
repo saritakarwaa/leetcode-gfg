@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2665-minimum-time-to-repair-cars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Union Find
 |  |
 | ------- |
