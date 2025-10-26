@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0367-valid-perfect-square) |
+| [0384-shuffle-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0384-shuffle-an-array) |
 | [0445-add-two-numbers-ii](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0445-add-two-numbers-ii) |
 | [0458-poor-pigs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0458-poor-pigs) |
 | [0523-continuous-subarray-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0523-continuous-subarray-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0384-shuffle-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0491-non-decreasing-subsequences) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0384-shuffle-an-array) |
 | [0931-maximum-frequency-stack](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2169-simple-bank-system) |
@@ -692,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0187-repeated-dna-sequences) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
