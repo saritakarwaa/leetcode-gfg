@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1962-single-threaded-cpu](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1962-single-threaded-cpu) |
+| [2169-simple-bank-system](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2169-simple-bank-system) |
 | [2227-sum-of-subarray-ranges](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2227-sum-of-subarray-ranges) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2428-equal-row-and-column-pairs) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2169-simple-bank-system](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2169-simple-bank-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saritakarwaa/leetcode-gfg/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/saritakarwaa/leetcode-gfg/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2470-removing-stars-from-a-string) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0937-online-stock-span) |
+| [2169-simple-bank-system](https://github.com/saritakarwaa/leetcode-gfg/tree/master/2169-simple-bank-system) |
 ## Data Stream
 |  |
 | ------- |
