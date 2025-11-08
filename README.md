@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0189-rotate-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/saritakarwaa/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
