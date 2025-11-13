@@ -4,8 +4,7 @@ using namespace std;
 void print(int i,vector<int>&ds,int arr[],int n){
     if(i==n){
         for(auto it:ds){
-            cout<<it<<"  ";
-            
+            cout<<it<<"  ";    
         }
         return;
     }
